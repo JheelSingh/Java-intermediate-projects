@@ -1,0 +1,17 @@
+ Array Odd and Even
+
+A Java program that accepts 5 integer elements from the user, stores them in an array, and displays all the even and odd elements.
+ Concepts Used
+
+- Arrays
+- Scanner Class
+- For Loops
+- User Input
+- Classes and Objects
+
+ Language
+
+ Java
+
+ Author
+ Jheel
